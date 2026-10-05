@@ -1,5 +1,5 @@
 {
-  "ResourceGroupName": "MATE-AZURE-TASK-2",
+  "ResourceGroupName": "mate-azure-task-2",
   "ManagedBy": null,
   "ManagedByExtended": [],
   "Sku": {
@@ -43,7 +43,7 @@
   },
   "MaxShares": null,
   "ShareInfo": [],
-  "Id": "/subscriptions/c63e76b8-5de6-49de-8e69-e27e4f97c24a/resourceGroups/MATE-AZURE-TASK-2/providers/Microsoft.Compute/disks/olena-data-disk",
+  "Id": "/subscriptions/c63e76b8-5de6-49de-8e69-e27e4f97c24a/resourceGroups/mate-azure-task-2/providers/Microsoft.Compute/disks/olena-data-disk",
   "Name": "olena-data-disk",
   "Type": "Microsoft.Compute/disks",
   "Location": "swedencentral",
